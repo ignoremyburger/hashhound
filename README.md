@@ -1,10 +1,13 @@
-# **HashHound: ** Fast, efficient and secure Bitcoin wallet bruteforcer
+# HashHound: Fast, efficient and secure Bitcoin wallet bruteforcer
 
-<div align="center"><b>HashHound version 3. Improved UI and performance</b><br/>
+<p align="center">
+    <img src="hashhound-logo.png" style="width: 200px; height: 200px; margin: auto;">
+</p>
+<div align="center"><b>HashHound version 4. The best has become better.</b><br/>
 <i>Fortune favors the brave</i>
 </div>
 
-![image of hashhound dashboard](hashhound-v3.png)
+![image of hashhound dashboard](hashhound-v4.png)
 
 ### **Introduction**
 We love Cryptocurrencies, we love treasure hunting, why not make a tool for the adventurous
@@ -22,20 +25,18 @@ There are a few options for our customers:
 
 <b><i>HashHound doesn't process refunds.</i></b>
 
-### **I don't have enough money to purchase HashHound**
-Don't worry, our version 2 is still available for purchase for only 20$. If that is still outside your budget, there is nothing we can do for you.
-
-![image of hashhound v2 dashboard](hashhound-v2.png)
-
 ### **How does it work?**
 HashHound utilizes multiple bruteforcing modules and attack vectors to crack existing Bitcoin wallets. From Hex private key bruteforcing to Seed Phrase bruteforcing, we got you covered.
 
 <b><i>HashHound comes in 3 versions:</i></b>
+
+- <b>Version 4 (Zeus)</b>: Switched from Bootstrap to Tailwind for a better User Interface. User now only needs username and license key. Better performance with improved seed bruteforce.
+
+- <b>Version 3 (Athena) - deprecated</b>: Better security for HashHound customers, authentication with a license key, username and password. HashHound code base is now obfuscated. Seed wallet bruteforcing is introduced only to VIP users.
+
+- <b>Version 2 (Hera) - deprecated</b>: Significant improvement from the prior version of HashHound, better UI and stability. Better threading management.
+
 - <b>Version 1 (Nyx) - deprecated</b>: A basic version of HashHound. Although simple but it gets the job done. Only has 1 hex bruteforce module.
-
-- <b>Version 2 (Hera)</b>: Significant improvement from the prior version of HashHound, better UI and stability. Better threading management.
-
-- <b>Version 3 (Athena)</b>: Better security for HashHound customers, authentication with a license key, username and password. HashHound code base is now obfuscated. Seed wallet bruteforcing is introduced only to VIP users.
 
 ### **How long does it take until I can find a funded Bitcoin wallet?**
 HashHound and its developers does not guarantee success while using this tool. While this is based purely on luck, why not giving it a shot?
